@@ -1,0 +1,26 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Data files
+data/*.db
+data/*.csv
+data/*.png
+
+# Models (trained models can be large)
+models/*.pkl
+models/*.pt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# ML
+.cache/
+huggingface/
+
+# Logs
+logs/
