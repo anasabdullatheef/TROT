@@ -1,0 +1,16 @@
+# Cross-Exchange Arbitrage Bot Dependencies
+
+# Exchange connectivity
+ccxt>=4.0.0
+
+# Async HTTP
+aiohttp>=3.9.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Data storage (SQLite is built-in)
+# No additional dependencies needed
+
+# Optional: for enhanced terminal output
+# rich>=13.0.0

@@ -1,0 +1,14 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Data files
+data/*.csv
+data/*.png
+
+# IDE
+.idea/
+.vscode/
+*.swp
